@@ -1,0 +1,35 @@
+﻿  Project_2.cpp
+d:\research\code\graphics\project_2\project_2\project_2.cpp(209): warning C4018: '<': signed/unsigned mismatch
+d:\research\code\graphics\project_2\project_2\project_2.cpp(224): warning C4018: '<': signed/unsigned mismatch
+d:\research\code\graphics\project_2\project_2\project_2.cpp(189): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\research\code\graphics\project_2\project_2\project_2.cpp(923): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(925): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(927): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(947): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(949): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1522): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1534): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1545): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1546): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1571): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1572): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1596): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1597): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1598): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1621): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1622): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1623): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1647): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1648): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1672): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1673): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1674): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1759): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1761): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1794): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1796): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\research\code\graphics\project_2\project_2\project_2.cpp(1782): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Project_2.vcxproj -> D:\Research\Code\Graphics\Project_2\Debug\Project_2.exe
+  Project_2.vcxproj -> D:\Research\Code\Graphics\Project_2\Debug\Project_2.pdb (Full PDB)
